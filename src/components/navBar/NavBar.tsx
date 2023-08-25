@@ -10,7 +10,7 @@ export function NavBar() {
 
                 <NavLink to="/randomTreasures" className='text-2xl'>Shop</NavLink>
 
-                <NavLink to='/askDragons' className='text-1xl md:text-2xl font-normal lg:text-2xl '>Ask The Forggoten!</NavLink>
+                <NavLink to='/askDragons' className='text-1xl font-semibold md:text-2xl md:font-normal lg:text-2xl '>Ask The Forggoten!</NavLink>
 
             </div>
         </div>
